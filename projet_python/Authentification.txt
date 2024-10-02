@@ -1,0 +1,25 @@
+Id_user  21810
+Login&pwd Ahmed&Ahmed123
+Classe  CII-2-SIIR-A
+Email  Ahmed@gmail
+
+
+Id_user 21950
+Login&pwd Sarra&sarra123
+Classe  CII-2-SIIR-B
+Email  Sarra@gmail
+Id_user: 123
+Login&pwd: ALI&12345678
+Email: ALI@GMAIL.COM
+Classe: CII-2-SIIR-A
+
+Id_user: 1234
+Login&pwd: MOHAMED&987456321
+Email: MOHAMED@GMAIL.COM
+Classe: CII-2-SIIR-D
+
+Id_user: 1920
+Login&pwd: moemen&987456321
+Email: MOEMEN@GMAIL.COM
+Classe: CII-2-SIIR-A
+
